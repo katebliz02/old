@@ -1,5 +1,7 @@
 **Kate Bliznyuk**
 =====
+<img src="https://github.com/katebliz02/rsschool-cv/blob/gh-pages/me.jpg" width="250" height="250" />
+
 **Contact information:**  
 Location: Minsk, Belarus  
 Phone: +375297956242  
